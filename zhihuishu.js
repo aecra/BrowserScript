@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         智慧树，搞他
+// @name         智慧树刷课脚本
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  自动播放，1.5倍速，静音，流畅画质，自动跳转至下一个视频
